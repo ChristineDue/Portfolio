@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#nav {
+	float: right;
+	font-size: 15px;
+	font-family: 'Palanquin', sans-serif;
+	color: #3786A5;
+	padding: 0 80px;
+	font-weight: 500;
+}
+#nav a{
+	text-decoration: none;
+	color: #3786A5;	
+}
+#nav a:hover{
+	color:#17313d;
+}

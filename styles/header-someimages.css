@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#header {
+	border-bottom: 1px solid black;
+	padding: 10px;
+	justify-content: space-between;
+	background-color: #3786A5;
+	margin: auto;
+	overflow: auto;
+	
+}
+
+/* SOME images */
+#someimages{
+	display: flex;
+	height: 20px;
+	border:1px solid black;
+	float: right;
+}
+
+#someimages img{
+	width: 20px;
+	height: 20px;
+	padding: 0 8px;
+}
