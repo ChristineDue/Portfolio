@@ -7,15 +7,23 @@
 	border: none;
 }
 
-#main {
-	display: flex;
+body {
+	background-color: #3D3B3B;
+}
+
+.main {
 	border: 3px solid red;
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 99%;
-	height: 500px;
+	min-width: 99%;
+	min-height: 90vh;
 	padding: 2px;
 	}
+
+.main-special{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+
+}
 
 #maintekst{
 	font-size: 60px;}
