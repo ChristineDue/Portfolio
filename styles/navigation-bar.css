@@ -7,17 +7,28 @@
 }
 
 #nav {
-	float: right;
-	font-size: 15px;
-	font-family: 'Palanquin', sans-serif;
-	color: #3786A5;
-	padding: 0 80px;
-	font-weight: 500;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	font-size: 18px;
+	font-family: 'Mali', cursive;
+	
+	
 }
-#nav a{
+#nav .normalnavi{
 	text-decoration: none;
-	color: #3786A5;
+	color: #1a8089;
+	text-align: center;
+	width:200px;
+	display: inline-block;
 }
+
 #nav a:hover{
-	color:#17313d;
+	color: #4DD1DD;
+}
+
+#logo img{
+	vertical-align: middle;
+	height: 150px;
 }

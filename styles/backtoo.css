@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+
+.backtoo{
+	display: flex;
+	margin: 60px;
+	width: 300px;
+}
