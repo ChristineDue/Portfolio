@@ -6,3 +6,17 @@
 	border: none;
 	font-family: 'Mali', cursive;
 }
+
+.contact-titel{
+	margin-top: 100px;
+	color: #4F1314;
+	-webkit-transition: all 4s ease-in-out;
+	transition: all 4s ease-in-out;
+}
+
+.contact-titel h1{
+	font-size: 32px;
+	
+}
+
+
