@@ -7,7 +7,7 @@
 
 .contact-titel h1{
 	font-size: 32px;
-	
+	transition: all 4s ease-in-out;
 }
 
 .form-control{
@@ -20,6 +20,10 @@
 	font-size: 18px;
 	margin-bottom: 16px;
 	
+}
+form{
+	margin-top: 150px;
+	transition: all 4s ease-in-out;
 }
 
 input{
