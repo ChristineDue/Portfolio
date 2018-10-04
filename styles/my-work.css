@@ -15,7 +15,6 @@
 	min-height:90vh; 
 	margin-left: auto;
 	margin-right: auto;
-	border: 1px dotted red;
 	 }
 
 .projekter{
@@ -26,7 +25,6 @@
 .projekter img {
 	width: 95%;
 	cursor: pointer;
-	border: 1px solid red;
 	margin: 30px 15px;
 }
 
