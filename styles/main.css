@@ -1,16 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
 
-* {
+/** {
 	margin: 0;
 	padding: 0;
 	border: none;
-	font-family: 'Mali', cursive;
-}
+	
+}*/
 
 body {
 	background-color:#E9EBEE;
 	text-align: center;
+	font-family: 'Mali', cursive;
 }
 
 .main{
