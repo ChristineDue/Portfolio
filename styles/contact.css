@@ -2,12 +2,13 @@
 /* CSS Document */
 
 .contact-title{
-	margin-top: 100px;
+	margin-top: 80px;
+	
 }
 
 .contact-titel h1{
 	font-size: 32px;
-	transition: all 4s ease-in-out;
+	transition: all 1s ease-in-out;
 }
 
 .form-control{
@@ -22,8 +23,11 @@
 	
 }
 form{
-	margin-top: 150px;
-	transition: all 4s ease-in-out;
+	margin-top: 50px;
+	transition: all 1s ease-in-out;
+	margin-left: 150px;
+	position: relative;
+	bottom: 600px;
 }
 
 input{
@@ -38,4 +42,10 @@ form .submit{
 	letter-spacing: 2px;
 	height: 50px;
 	margin-top: 20px;
+}
+
+.billede{
+	position: relative;
+	right: 400px;
+	bottom: 20px;
 }

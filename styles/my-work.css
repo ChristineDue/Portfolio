@@ -1,11 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
-* {
+/** {
 	margin: 0;
 	padding: 0;
 	border: none;
-}
+}*/
 
 .mainproject{
 	display: flex;
@@ -25,7 +25,7 @@
 .projekter img {
 	width: 95%;
 	cursor: pointer;
-	margin: 50px 15px;
+	margin: 80px 15px;
 }
 
 .projekter img:hover{
@@ -34,7 +34,7 @@
 
 h1 {
 	position: relative;
-	bottom: 260px;
+	bottom: 350px;
 	color: #FFFFFF;
 	font-weight: strong;
 	text-align: center;
