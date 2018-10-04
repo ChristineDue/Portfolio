@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.mainproject{
+	min-width: 60%;
+	width: 60%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	border: 5px dotted red;
+}
+.headline{
+	border: 1px solid red;
+	margin: 15px;
+	width: 800px;
+	height: 90px;
+	text-align: left;
+	font-family: 'Mali', cursive;
+}
+
+.description{
+	border: 1px solid blue;
+	width: 900px;
+	padding: 40px 0 0 0;
+	font-family: 'Mali', cursive;
+	
+}
+
+.intro-explanation{
+	border: 1px solid #82D422;
+	margin: 15px;
+	width: 500px;
+	position: relative;
+	font-family: 'Mali', cursive;
+	top: 250px;
+	left: -200px;
+	}
+
+.intro-explanation2{
+	border: 1px solid #82D422;
+	margin: 15px;
+	min-width: 200px;
+	height: 100px;
+	position: relative;
+	right: 600px;
+	top: 300px;
+	font-family: 'Mali', cursive;
+	
+	
+}
+#whome-billede{
+	height: 300px;
+	margin: 15px;
+	position: relative;
+	top: 150px;
+	right: 900px;
+	border: 1px solid #82D422;
+}
+
+
+#video{
+	position: relative;
+	left: -400px;
+}
