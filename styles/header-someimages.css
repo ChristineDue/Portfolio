@@ -36,5 +36,26 @@
 
 #forsidebillede img{
 	height: 600px; 
-	
+}
+
+#penbillede{
+	display: flex;
+	position: relative;
+	bottom: 451px;
+	left: 999px;
+}
+
+#penbillede img{
+	height: 190px;
+}
+
+#skrift{
+	display: flex;
+	position: relative;
+	bottom: 650px;
+	left: 430px;
+}
+
+#skrift img{
+	height: 250px;
 }

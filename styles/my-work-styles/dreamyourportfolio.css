@@ -21,12 +21,12 @@ h2{
 	font-size: 15px;
 }
 
-.line-one,.line-two{
+.line{
 	display: flex;
 }
 
 .text{
-margin: auto 15px auto 15px;
+	margin: auto 15px auto 15px;
 	width: 50%;
 	text-align: left;
 	line-height: 1.7;
@@ -36,6 +36,15 @@ margin: auto 15px auto 15px;
 	margin: 15px;
 }
 .linepictures img{
+	width: 100%;
+	border: 2px solid #1a8089;
+}
+
+.linepicturesbottom{
+	width: 50%;
+	margin: 15px;
+}
+.linepicturesbottom img{
 	width: 100%;
 	border: 2px solid #1a8089;
 }
