@@ -8,8 +8,8 @@
 }
 
 .projekter{
-	width: 300px; 
-	min-width: 25%;
+	width: 500px; 
+	min-width: 30%;
 	margin: 30px;
 
 	}
@@ -26,7 +26,7 @@
 
 h1 {
 	position: relative;
-	bottom: 280px;
+	bottom: 200px;
 	color: #FFFFFF;
 	font-weight: strong;
 	text-align: center;
