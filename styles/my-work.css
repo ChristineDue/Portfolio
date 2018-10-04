@@ -7,26 +7,36 @@
 	border: none;
 }
 
-.projekter{
-	width: 500px; 
-	min-width: 30%;
-	margin: 30px;
+.mainproject{
+	display: flex;
+	flex-wrap: wrap;
+	min-width: 70%;
+	width: 70%;
+	min-height:90vh; 
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px dotted red;
+	 }
 
+.projekter{
+	min-width: 300px;
+	width: 50%;
 	}
 
 .projekter img {
-	width: 100%;
+	width: 95%;
 	cursor: pointer;
+	border: 1px solid red;
+	margin: 30px 15px;
 }
 
 .projekter img:hover{
 	opacity: 0.5;
 }
 
-
 h1 {
 	position: relative;
-	bottom: 200px;
+	bottom: 260px;
 	color: #FFFFFF;
 	font-weight: strong;
 	text-align: center;
@@ -35,5 +45,4 @@ h1 {
 	height: 0;
 	text-shadow: 2px 2px black;
 }
-
 

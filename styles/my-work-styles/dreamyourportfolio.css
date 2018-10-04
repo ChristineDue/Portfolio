@@ -8,17 +8,9 @@
 	border: none;
 }
 
-.mainproject{
-	min-width: 70%;
-	width: 70%;
-	min-height:90vh; 
-	margin-left: auto;
-	margin-right: auto;
-	border: 5px dotted red;
-}
 .headline{
 	border: 1px solid red;
-	margin: 15px;
+	margin: 30px 15px;
 	height: 90px;
 	text-align: left;
 }
@@ -35,16 +27,18 @@ h2{
 }
 
 .text{
-	height: 400px;
-	width: 40%;
-	text-align: center;
+margin: auto 15px auto 15px;
+	width: 50%;
+	text-align: left;
 	border: 1px solid red;
 }
-img{
-	
+.linepictures{
 	width: 50%;
-	object-fit: contain;
 	border: 1px solid red;
+	margin: 15px;
+}
+img{
+	width: 100%;
 }
 /*.description{
 	border: 1px solid blue;

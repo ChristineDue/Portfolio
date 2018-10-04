@@ -32,8 +32,6 @@
 
 #forsidebillede{
 	display: flex;
-	position: relative;
-	left: 100px;	
 }
 
 #forsidebillede img{
