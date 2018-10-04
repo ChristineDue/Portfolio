@@ -4,6 +4,7 @@
 	margin: 0;
 	padding: 0;
 	border: none;
+	font-family: 'Mali', cursive;
 }
 
 #nav {
@@ -12,9 +13,6 @@
 	flex-wrap: wrap;
 	align-items: center;
 	font-size: 18px;
-	font-family: 'Mali', cursive;
-	
-	
 }
 #nav .normalnavi{
 	text-decoration: none;
