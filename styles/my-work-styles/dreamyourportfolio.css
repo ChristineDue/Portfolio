@@ -9,7 +9,8 @@
 }
 
 .headline{
-	margin: 50px 15px;
+	flex-wrap: wrap;
+	margin: 50px 15px 15px 15px;
 	height: 90px;
 	text-align: left;
 }
@@ -23,19 +24,25 @@ h2{
 
 .line{
 	display: flex;
+	
+	
 }
 
 .text{
 	margin: auto 15px auto 15px;
 	width: 50%;
-	text-align: left;
+	text-align: justify;
 	line-height: 1.7;
+	
 }
-.billedeitekst{
-	height: 800px;
-	width: 100%;
+.billedeitekst{ 
+	max-width: 100%;
+	margin-top: 100px;;
 	border: 2px solid #1a8089;
-	vertical-align: bottom;
+}
+.dividiv{
+	width: 100%;
+	text-align: center;
 }
 .linepictures{
 	width: 50%;
@@ -54,6 +61,7 @@ h2{
 	width: 100%;
 	border: 2px solid #1a8089;
 }
+
 /*.description{
 	border: 1px solid blue;
 	height: 80px;
