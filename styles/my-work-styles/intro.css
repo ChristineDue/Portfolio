@@ -11,10 +11,9 @@
 .mainproject{
 	min-width: 70%;
 	width: 70%;
+	min-height:90vh; 
 	margin-left: auto;
 	margin-right: auto;
-	text-align: center;
-	justify-content: center;
 	border: 5px dotted red;
 }
 .headline{
@@ -26,7 +25,8 @@
 
 .description{
 	border: 1px solid blue;
-	width: 900px;
+	height: 80px;
+	width: 70%;
 	padding: 40px 0 0 0;
 
 }
@@ -34,18 +34,19 @@
 .intro-explanation{
 	border: 1px solid #82D422;
 	margin: 15px;
-	width: 500px;
+	width: 50%;
 	position: relative;
-	top: 250px;
-	left: -200px;
+	top: 100px;
+	float: right;
+
 	}
 
 .intro-explanation2{
 	border: 1px solid #82D422;
 	margin: 15px;
 	min-width: 200px;
-	height: 100px;
 	position: relative;
+	height: 100px;
 	right: 600px;
 	top: 300px;
 }
@@ -56,6 +57,15 @@
 	margin: 15px;
 	position: relative;
 	top: 150px;
-	right: 900px;
+	right: 300px;
+	border: 1px solid #82D422;
+}
+
+#kahoot-billede{
+	height: 300px;
+	margin: 15px;
+	position: relative;
+	top: 550px;
+	left: 300px;
 	border: 1px solid #82D422;
 }
