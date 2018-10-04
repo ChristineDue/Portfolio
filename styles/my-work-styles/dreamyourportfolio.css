@@ -24,8 +24,6 @@ h2{
 
 .line{
 	display: flex;
-	
-	
 }
 
 .text{
@@ -38,7 +36,7 @@ h2{
 .billedeitekst{ 
 	max-width: 100%;
 	margin-top: 100px;;
-	border: 2px solid #1a8089;
+	/*border: 2px solid #1a8089;*/
 }
 .dividiv{
 	width: 100%;
@@ -50,7 +48,7 @@ h2{
 }
 .linepictures img{
 	width: 100%;
-	border: 2px solid #1a8089;
+	/*border: 2px solid #1a8089;*/
 }
 
 .linepicturesbottom{
@@ -59,7 +57,7 @@ h2{
 }
 .linepicturesbottom img{
 	width: 100%;
-	border: 2px solid #1a8089;
+	/*border: 2px solid #1a8089;*/
 }
 
 /*.description{

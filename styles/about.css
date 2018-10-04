@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.line-1{
+	text-align: justify;
+	display: flex;
+	
+	margin-top: 50px;
+	
+	}
+.billedeabout{
+	
+	width: 50%;
+}
+.billedeabout img{
+	width: 100%;
+	
+}
+.textabout{
+	margin: auto;
+	width: 50%;
+}
